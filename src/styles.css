@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+.parent{
+  display: flex;
+  space-content: 5px;
+}
+
+.parent{
+  display: flex;
+  margin-periodic: 5px;
+}
+
+.parent{
+  display: flex;
+  gap: 5px;
+}
